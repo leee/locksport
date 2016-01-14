@@ -14,7 +14,6 @@ locks:
 (http://webunraveling.com/public/mit-lock-picking-guide/index.php). A PDF
 version is available in this locker of the original.
 
-
 ## tools
 * I've always been a big fan of [Peterson](http://www.thinkpeterson.com/). Ken
 Persson never fails to achieve!
@@ -36,6 +35,19 @@ can order your next fun lock while continuing to build out your setup.
 Best/Arrow SFIC setup, if not a Schlage Everest Primus setup.
 * I would've also recommended a Mul-T-Lock buildout, but after discovering
 they're absurdly easy to pick, I no longer use them.
+
+## storage
+Pelican typically does a great job with their cases. A few notes:
+* Don't get the Elite Luggage series (BA/EL). No one in their right mind would.
+* Storm cases just have a fancy latch - not worth it.
+* The 1510 is the standard size for carry-ons, and is what I use daily. No need
+for the 1510M, that's just absurd.
+* You could build a very nice radio/QRP rig around the 1400.
+* Pelican's armory cases fit bows very well.
+* The BlackBox/Composite/MAC/SuperMAC/Classic/Pro rackmount series of cases are
+pretty good. I've hauled network, servers, UPSes, and other infrastructure with
+no problems. You can get sound setups to be rackmount too.
+* Best of all, these cases will fit an Abloy PL 321, if not the 330 or even 342.
 
 ## typical disclaimers and other legalese apply
 As [Bosnian Bill](https://www.youtube.com/user/bosnianbill) always says:
