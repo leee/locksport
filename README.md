@@ -10,6 +10,10 @@ locks:
 * [LockWiki](http://lockwiki.com/)
 * [lockpicking subreddit](https://www.reddit.com/r/lockpicking/) and
 [their wiki/FAQ](https://www.reddit.com/r/lockpicking/wiki/index)
+* [a guide to Lock Picking by Ted the Tool]
+(http://webunraveling.com/public/mit-lock-picking-guide/index.php). A PDF
+version is available in this locker of the original.
+
 
 ## tools
 I've always been a big fan of [Peterson](http://www.thinkpeterson.com/). Ken
