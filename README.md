@@ -14,6 +14,18 @@ locks:
 (http://webunraveling.com/public/mit-lock-picking-guide/index.php). A PDF
 version is available in this locker of the original.
 
+## contests, cons, and locksport organizations
+* [Locksport International](http://locksport.com/)
+* [DEF CON](https://defcon.org/)
+* [HOPE](http://hope.net/)
+* [CCC](https://www.ccc.de/) (and the German Lockpicking Championships)
+* [Summercon](http://www.summercon.org/)
+* [ToorCon](http://toorcon.net/)
+* [SSDeV](https://www.ssdsev.org/) -
+Sportsfreunde der Sperrtechnik Deutschland e.V.
+* and of course, [TOOOL](http://toool.us/), filled with a favorite tool, Deviant
+Ollam.
+
 ## tools
 * I've always been a big fan of [Peterson](http://www.thinkpeterson.com/). Ken
 Persson never fails to achieve!
@@ -25,6 +37,11 @@ tool I have from them, but it's a very good buy.
 * Otherwise, I prefer to 3D print pinning trays, mockups, plugs, etc. I believe
 models can be had online. I have been told however that LAB and Sparrows have
 nice pinning mats.
+* If you're only interested bypass techniques, you may wish to obtain a snap
+gun, a set of warded/skeleton and wafer picks, coffin keys and jigglers, etc.
+* [Southern Specialties](http://www.lockpicktools.com/),
+[Safe Ventures](http://safeventures.com/),
+[Southord](http://www.southord.com/), are some other vendors you can check out.
 
 ## locks
 * If you're deploying a system, [Security Snobs](https://securitysnobs.com/)
