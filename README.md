@@ -13,6 +13,8 @@ locks:
 * [a guide to Lock Picking by Ted the Tool]
 (http://webunraveling.com/public/mit-lock-picking-guide/index.php). A PDF
 version is available in this locker of the original.
+* [Karl Stoerzinger](http://kstoerz.com/)'s
+[Bitting Decoding Utility](http://kstoerz.com/locksport/bitting/).
 
 ## contests, cons, and locksport organizations
 * [Locksport International](http://locksport.com/)
@@ -37,8 +39,10 @@ tool I have from them, but it's a very good buy.
 * Otherwise, I prefer to 3D print pinning trays, mockups, plugs, etc. I believe
 models can be had online. I have been told however that LAB and Sparrows have
 nice pinning mats.
-* If you're only interested bypass techniques, you may wish to obtain a snap
-gun, a set of warded/skeleton and wafer picks, coffin keys and jigglers, etc.
+* If you're interested in quick methods, you'll probably want rakes, a snap gun,
+a set of warded/skeleton and wafer picks, coffin keys and jigglers, etc.
+* If you're only interested in bypass techniques, you have shims, sticks, hooks,
+the list goes on and on.
 * [Southern Specialties](http://www.lockpicktools.com/),
 [Safe Ventures](http://safeventures.com/),
 [Southord](http://www.southord.com/), are some other vendors you can check out.
