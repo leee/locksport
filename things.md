@@ -10,3 +10,10 @@ gone ahead and linked to Amazon listings that are Prime eligible.
 * [ABUS Titalium 64TI/50mm C KD($9.38)](http://www.amazon.com/dp/B00G7P3BQM)
 * [ABUS Titalium 80TI/50mm C KD ($15.75)](http://www.amazon.com/dp/B00G7P3FYA)
 * [ABUS Granit 37RK/80mm KD ($130.20)](http://www.amazon.com/dp/B004GE9H8W)
+
+## high-security
+Really fun locks/systems I've played with:
+
+* Mul-T-Lock (particularly the Interactive series)
+* Medeco (the ones with biaxial pins - patents have long run their course)
+* Schlage Primuses
